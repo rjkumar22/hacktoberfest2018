@@ -56,6 +56,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Divyansh Sharma | III | CSE | |
 | Rishabh Anand | IV | ECE | |
 | Shiv Soni | IV | CSE | |
+| [Rajat](https://github.com/rjkumar22) | IV | SE | |
 | Harshit Choudhary | II | IT | |
 | gursimran | II | IT | |
 | Sparsh Singhal | III | CSE | |
